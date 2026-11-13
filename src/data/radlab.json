@@ -1,0 +1,14 @@
+{
+  "sourceUrl": "https://visualization.osdr.nasa.gov/radlab/api/?spacecraft=ISS\u0026instrument_id=DosTel1\u0026timestamp%3E=2022-04-01T23%3A00\u0026timestamp%3C2022-04-01T23%3A05\u0026absorbed_dose_rate\u0026format=json",
+  "retrievedAt": "2026-11-13",
+  "spacecraft": "ISS",
+  "instrumentId": "DosTel1",
+  "unit": "μGy/hour",
+  "columns": ["timestamp", "instrument_id", "absorbed_dose_rate", "spacecraft"],
+  "data": [
+    ["2022-04-01T23:00:00", "DosTel1", 9.815504, "ISS"],
+    ["2022-04-01T23:00:33", "DosTel1", 9.835079, "ISS"],
+    ["2022-04-01T23:02:13", "DosTel1", 7.949537, "ISS"],
+    ["2022-04-01T23:03:53", "DosTel1", 6.228811, "ISS"]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "file": "Assets\\source\\8k_mars.jpg",
+  "sourceUrl": "https://play.solarsystemscope.com/textures/download/8k_mars.jpg",
+  "sourcePage": "https://play.solarsystemscope.com/textures/",
+  "provider": "Solar System Scope / INOVE",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "retrievedAt": "2026-11-13",
+  "dimensions": [
+    8192,
+    4096
+  ],
+  "format": "JPEG",
+  "bytes": 8396951,
+  "sha256": "4cc52149924abc6ae507d63032f994e1d42a55cb82c09e002d1a567ff66c23ee",
+  "changes": "None; original download",
+  "limitations": "Processed artistic planetary visualization; not raw NASA data or elevation. 4K derivative not created."
+}

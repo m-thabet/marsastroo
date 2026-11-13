@@ -1,0 +1,74 @@
+[
+  {
+    "file": "audio\\ui-select.wav",
+    "action": "created",
+    "sha256": "c16b55c79da955eeccfb080610ae3aff25f3cfec085651c2d95d4f7a42b61bc1",
+    "sampleRate": 48000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 0.18
+  },
+  {
+    "file": "audio\\ui-confirm.wav",
+    "action": "created",
+    "sha256": "f54a9c4fdd463e612c1ff03424e256b3eb063b2a83effce7cbbb7cc1b24bdc02",
+    "sampleRate": 48000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 0.4
+  },
+  {
+    "file": "audio\\mission-warning.wav",
+    "action": "created",
+    "sha256": "8ea1af07f7421875016eea0179ec2ce3bdf4a8d667723c20d1deac2915c2f864",
+    "sampleRate": 48000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 0.8
+  },
+  {
+    "file": "audio\\radio-message.wav",
+    "action": "created",
+    "sha256": "c1eed91c18712291c34e216c129e9e196d3e49609128ae19f1b8cbf6e899d71d",
+    "sampleRate": 48000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 1.0
+  },
+  {
+    "file": "audio\\discovery.wav",
+    "action": "created",
+    "sha256": "bf95ddfdff04edfa932ed9759271475b355571744fd4aab764473c89069266e3",
+    "sampleRate": 48000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 1.4
+  },
+  {
+    "file": "audio\\rover-loop.wav",
+    "action": "created",
+    "sha256": "5e4249e6c5303b1d39c8b1f932c2989e7680bc1e5fab83bcc8aed2d7bfab873b",
+    "sampleRate": 48000,
+    "channels": 1,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 3.0
+  },
+  {
+    "file": "audio\\space-ambience.wav",
+    "action": "created",
+    "sha256": "735fbb4937ab5f59cb4ce169ebcba5cd433a3f2dd12cf0b23b47a94812b781bc",
+    "sampleRate": 48000,
+    "channels": 2,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 30.0
+  },
+  {
+    "file": "audio\\base-ambience.wav",
+    "action": "created",
+    "sha256": "da714006f2166c3dbb57dbde1ee12984702c4285c4e6a2491f396235b7254a87",
+    "sampleRate": 48000,
+    "channels": 2,
+    "sampleWidthBytes": 2,
+    "durationSeconds": 30.0
+  }
+]

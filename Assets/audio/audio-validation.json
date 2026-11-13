@@ -1,0 +1,82 @@
+[
+  {
+    "file": "base-ambience.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 2,
+    "seconds": 30.0,
+    "peakDbFS": -26.47,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  },
+  {
+    "file": "discovery.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 1,
+    "seconds": 1.4,
+    "peakDbFS": -13.16,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  },
+  {
+    "file": "mission-warning.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 1,
+    "seconds": 0.8,
+    "peakDbFS": -13.28,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  },
+  {
+    "file": "radio-message.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 1,
+    "seconds": 1.0,
+    "peakDbFS": -13.15,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  },
+  {
+    "file": "rover-loop.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 1,
+    "seconds": 3.0,
+    "peakDbFS": -21.39,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  },
+  {
+    "file": "space-ambience.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 2,
+    "seconds": 30.0,
+    "peakDbFS": -23.72,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  },
+  {
+    "file": "ui-confirm.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 1,
+    "seconds": 0.4,
+    "peakDbFS": -13.15,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  },
+  {
+    "file": "ui-select.wav",
+    "sampleRate": 48000,
+    "sampleWidthBytes": 2,
+    "channels": 1,
+    "seconds": 0.18,
+    "peakDbFS": -13.37,
+    "clippedSamples": 0,
+    "listeningReview": "pending"
+  }
+]

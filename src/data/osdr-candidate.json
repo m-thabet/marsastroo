@@ -1,0 +1,25 @@
+{
+  "recordId": "OSD-314",
+  "version": 7,
+  "sourceUrl": "https://osdr.nasa.gov/osdr/data/osd/meta/314",
+  "retrievedAt": "2026-11-13",
+  "title": "Adaptive response of Arabidopsis seedlings in microgravity and Mars reduced gravity environment is enhanced by red light photostimulation",
+  "description": "The response of plants to the spaceflight environment and microgravity is still not well understood, although there has been an increased emphasis on this topic. Even less is known about plants\u0027 response to partial or reduced gravity levels. In the absence of the directional cues provided by the gravity vector, the plant is especially perceptive to other cues such as light. Here, we investigate the response of Arabidopsis thaliana 6-day-old seedlings to microgravity and the Mars partial gravity level during spaceflight, as well as the effects of red light photostimulation by determining meristematic cell growth and proliferation. These experiments involve microscopic techniques together with transcriptomic studies. We demonstrate that microgravity and partial gravity trigger differential responses. The microgravity environment activates hormonal routes responsible for proliferation/growth and upregulates plastid/mitochondrial-encoded transcripts, even in the dark. In contrast, the Mars gravity level inhibits these routes and activates responses to stress factors to restore cell growth parameters only when red photostimulation is provided. This response is accompanied by upregulation of numerous transcription factors such as the environmental acclimation-related WRKY family. In the long term, these discoveries can be applied in the design of bioregenerative life support systems and space farming.",
+  "publications": [
+    {
+      "authorList": "Villacampa A, Ciska M, Manzano A, Vandebrink JP, Kiss JZ, Herranz R and Medina FJ",
+      "comments": [],
+      "doi": "10.3390/ijms22020899",
+      "pubMedID": "",
+      "status": {
+        "@id": "LmdAvi3HYaAIgsfwpY1sWHGrDR5sHm3luQJDg1Ay",
+        "annotationValue": "published",
+        "comments": [],
+        "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+        "termSource": "EFO"
+      },
+      "title": "From Spaceflight to Mars g-Levels: Adaptive Response of A. Thaliana Seedlings in a Reduced Gravity Environment Is Enhanced by Red-Light Photostimulation"
+    }
+  ],
+  "reviewStatus": "metadata-and-linked-publication-reviewed"
+}
